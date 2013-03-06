@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-readme ok
-
-master edit
-=======
-readme test
->>>>>>> test
+pjaszczyszyn
+hcj
