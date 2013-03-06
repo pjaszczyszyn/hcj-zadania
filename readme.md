@@ -1,2 +1,2 @@
 pjaszczyszyn
-hcj
+hcj - później dokończę.
